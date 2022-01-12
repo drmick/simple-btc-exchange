@@ -1,5 +1,3 @@
-# README
-
 Run
 ```
 docker-compose build
@@ -17,7 +15,7 @@ Local admin panel here:
 http://localhost:45000/admin
 login: admin, pass: admin
 ```
-### Service in internet
+### Service launched online for tests
 
 exchange: http://167.99.240.119:46666
 

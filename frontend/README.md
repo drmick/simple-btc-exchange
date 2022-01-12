@@ -1,9 +1,8 @@
-Running
-
-``,
+Run
+```
 docker-compose build
 docker-compose up
-``,
+```
 
 After starting, you need to open localhost: 3000
 
